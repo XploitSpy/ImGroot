@@ -7,15 +7,13 @@
 
 **ImGroot:** Send a quick message with simple text encryption, basically in Affine Cipher with Multi Encryption. based algorithm on ASCII and Caesar Cipher
 
-![ImGroot](https://user-images.githubusercontent.com/38149459/60750380-c5619a00-9fd1-11e9-8ff2-6eeb4722758a.PNG)
-
 # How To Use
 It's simple:
 ```
 **Linux**
 
 # Clone This Repository
-https://github.com/GenXPS/ImGroot.git
+https://github.com/XploitSpy/ImGroot.git
 
 # Go Into The Repository
 cd ImGroot
@@ -30,7 +28,7 @@ chmod +x Main_ImGroot
 **Windows**
 
 # Clone This Repository
-https://github.com/GenXPS/ImGroot.git
+https://github.com/XploitSpy/ImGroot.git
 Download ZIP
 
 # Go Into The Repository
