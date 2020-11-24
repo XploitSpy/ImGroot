@@ -13,7 +13,7 @@ It's simple:
 **Linux**
 
 # Clone This Repository
-https://github.com/XploitSpy/ImGroot.git
+git clone https://github.com/XploitSpy/ImGroot.git
 
 # Go Into The Repository
 cd ImGroot
